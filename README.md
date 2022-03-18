@@ -1,2 +1,2 @@
 # gitcloud
-Gitcloud is a open based download that you can help to edit nextcloud and more
+Gitcloud is a open source Cloud service with the Nextcloud™ Databace to share things from dev's
